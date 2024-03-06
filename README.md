@@ -22,6 +22,6 @@ My name is Lilian and I'm a front-end web developer looking for a work-study pla
 ![GIT](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GITHUB](https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github&logoColor=white)</br></br>
 
-## My goals
+### My goals
 
 My goal is to gain experience and be able to develop fully dynamic websites, with an emphasis on user experience.
