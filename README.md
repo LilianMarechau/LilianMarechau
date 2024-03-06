@@ -1,6 +1,6 @@
 ### Hi there 👋
 <p>
-  <a href="https://www.linkedin.com/in/lilian-marechau-a65553292/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/lilian-marechau/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
   <a href="https://lilian-marechau-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio--_.svg?style=social&color=blue" alt="personal website"></a>
 </p>
 
